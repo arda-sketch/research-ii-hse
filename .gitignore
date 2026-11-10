@@ -1,0 +1,13 @@
+# Raw data
+data/raw/
+
+__pycache__/
+data/interim/
+data/processed/
+
+# Local dataset acquisition and generated reports
+/config/
+/reports/
+/data/download_manifest.csv
+/scripts/download_datasets.py
+.ipynb_checkpoints/
